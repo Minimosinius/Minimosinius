@@ -2,3 +2,4 @@
 - 👀 I’m interested in: AI, Games, Chess for the most
 - 🌱 I’m currently learning C# and Python
 - 📫 You can reach me by my email: tercanefkan@gmail.com
+- 
