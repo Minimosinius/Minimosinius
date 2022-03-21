@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Efkan Kıraç (Minimosinius) Tercan
 - 👀 I’m interested in: AI, Games, Chess for the most
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C#, Java and Python
 - 📫 You can reach me by my email: tercanefkan@gmail.com
 - 
